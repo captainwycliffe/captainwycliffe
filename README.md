@@ -1,4 +1,4 @@
-Hey there.I'm Cliffe, it's a pleasure to meet you!
+Hey there.I'm Cliffe,it's a pleasure to meet you!
 A few things about me:
 I am frontend web developer doing all things creative to make the web a more unique and awesome place currently but am making more steps forward in becoming a fullstack developer or cloud engineer.
 Coffee, photography, music and art are my happy places
