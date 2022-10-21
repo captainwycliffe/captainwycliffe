@@ -3,7 +3,7 @@ A few things about me:
 I am frontend web developer doing all things creative to make the web a more unique and awesome place currently but am making more steps forward in becoming a fullstack developer or cloud engineer.
 Coffee, photography, music and art are my happy places
 I enjoy bringing a static design or idea to life and learning new technologies.
-I have extensive knowledge of HTML, CSS, JavaScript, SQL, and C. Combined with my communication and problem-solving skills
+I have extensive knowledge of HTML,CSS,JavaScript,SQL,and C. Combined with my communication and problem-solving skills
 
 
 
